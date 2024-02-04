@@ -1,0 +1,1 @@
+v1.0.1: Fixed the problem of non-unique slugs. An extension has been added EntryRecordModelHandler.php

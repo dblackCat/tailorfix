@@ -1,0 +1,8 @@
+{
+    "name": "catdesign/tailorfix-plugin",
+    "type": "october-plugin",
+    "description": "Fixing problems in the tailor",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
